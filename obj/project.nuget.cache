@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "OjbFXRrUaMjzOPZllumDwXWBRFV2jP0xwwSDxeCN7AUAM0gc2ONM17ywc1n6HOpfpnkTjLBNF2vRcAR62hmI2g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\freeb\\Desktop\\repos\\KanyeREST\\KanyeREST.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\freeb\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
